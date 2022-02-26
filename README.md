@@ -36,5 +36,18 @@ Challenging the solution: Performing Principle Component Analysis
                           
                           GridSearch to find the best Model and Parameters
 
-## Known Bugs
-No known bugs.
+
+## Technologies Used
+The analysis was carried out in python using pandas and numpy.
+
+## Support and contact details
+Incase of any issues, you can reach me at joan.chep@outlook.com
+
+### License
+See below for more details on licensing.
+**{Copyright (C) {2021}  Moringa School Data Science.
+}**
+Uses the MIT licence
+### Copyright
+**Copyright (C) Moringa School Data Science.**
+
