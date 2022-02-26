@@ -4,6 +4,8 @@
 ## Description
 {
 In the Titanic dataset we are Implementing K-nearest neighbor (KNN) classifier and a Naive Bayes classifier in our datasets.
+
+
 In the spam datasets we are creating a model using the Naive Bayes Classifier that can predict whether an email is spam or not.
 }
 ## Setup/Installation Requirements
